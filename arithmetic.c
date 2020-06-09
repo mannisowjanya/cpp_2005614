@@ -8,5 +8,5 @@ diff=a-b;
 mul=a*b;
 division=a/b;
 mod=a%b;
-printf("sum \n%d\ndiff \n%d\nmul \n%d\ndiv \n%d\n mod \n%d",sum,diff,mul,division,mod);
+printf("sum \n%d\ndiff \n%d\nmul \n%d\ndiv \n%d\n mod \n%d\n",sum,diff,mul,division,mod);
 }
