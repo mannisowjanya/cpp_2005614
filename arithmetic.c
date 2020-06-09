@@ -2,7 +2,7 @@
 int main()
 {
 int a,b,sum,diff,mul,div,mod;
-scanf("%d,%d",&a,&B);
+scanf("%d,%d",&a,&b);
 sum=a+b;
 diff=a-b;
 mul=a*b;
